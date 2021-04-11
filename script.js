@@ -12,7 +12,7 @@ const cover=document.querySelector('#cover')
 const song=['baarish','DANCE_MONKEY','Lut_gaye']
 
 //keep tracking of song
-let songIndex=0;
+let songIndex=2;
 loadSong(song[songIndex]);
 
 function loadSong(song)
