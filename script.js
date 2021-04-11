@@ -9,7 +9,7 @@ const title=document.querySelector('#title')
 const cover=document.querySelector('#cover')
 
 //song title 
-const song=['baarish','DANCE_MONKEY','Lut_gaye']
+const song=['baarish','DANCE_MONKEY','Bandeya']
 
 //keep tracking of song
 let songIndex=2;
